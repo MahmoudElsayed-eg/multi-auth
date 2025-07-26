@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+@theme {
+  --color-modern-dark:#1F1F1F;
+}
