@@ -41,7 +41,7 @@ This full-stack web app allows admins and users to interact with a post manageme
 
 ## ⚙️ Backend Setup
 
-See [`backend/BACKENDREADME.md`](backend/BACKENDREADME.md) for full instructions on setting up the Laravel backend, including:
+See [`backend/README.md`](backend/README.md) for full instructions on setting up the Laravel backend, including:
 
 - Environment setup
 - Database configuration
@@ -53,7 +53,7 @@ See [`backend/BACKENDREADME.md`](backend/BACKENDREADME.md) for full instructions
 
 ## 💻 Frontend Setup
 
-See [`frontend/FRONTENDREADME.md`](frontend/FRONTENDREADME.md) for instructions on setting up the frontend, including:
+See [`frontend/README.md`](frontend/README.md) for instructions on setting up the frontend, including:
 
 - Installation
 - Routing setup for Admin/User
