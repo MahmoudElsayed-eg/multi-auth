@@ -92,7 +92,7 @@ You can use the following test users to log in and test the API:
 
 You can test the API using the Postman collection linked below:
 
-🔗 **[View Postman Collection](https://web.postman.co/workspace/Personal-Workspace~ca93ea78-63f0-47ff-98db-f6ece49dbecd/collection/34837536-39b132a8-b010-4b8e-92db-f2cfb04e23c9?action=share&source=copy-link&creator=34837536)**  
+🔗 **[View Postman Collection](https://www.postman.com/mahmoud-storexweb/multi-auth/collection/6nt15cq/127-0-0-1-8000?action=share&creator=34837536)**  
 >
 
 ---
